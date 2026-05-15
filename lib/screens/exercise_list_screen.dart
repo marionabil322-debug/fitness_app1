@@ -1,4 +1,4 @@
-import 'package:fitness_app/core/theme/app_colors.dart';
+import 'package:fitness_app1/core/theme/app_colors.dart';
 import 'package:flutter/material.dart';
 import '../core/widgets/item_tile.dart';
 import '../data/app_data.dart';

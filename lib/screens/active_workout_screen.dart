@@ -1,6 +1,6 @@
 import 'dart:async';
-import 'package:fitness_app/core/theme/app_colors.dart';
-import 'package:fitness_app/core/widgets/app_botton.dart';
+import 'package:fitness_app1/core/theme/app_colors.dart';
+import 'package:fitness_app1/core/widgets/app_botton.dart';
 import 'package:flutter/material.dart';
 import '../core/widgets/item_tile.dart';
 import '../data/app_data.dart';
