@@ -47,6 +47,17 @@
 - مؤشر كتلة الجسم (BMI) مع تحليل تلقائي للحالة الصحية.
 
 ---
+<img width="390" height="853" alt="Screenshot 2026-05-15 203822" src="https://github.com/user-attachments/assets/c25d17de-faeb-4f31-a1d8-607f84d57aa1" />
+<img width="391" height="858" alt="Screenshot 2026-05-15 202503" src="https://github.com/user-attachments/assets/5bdae4c8-555f-4c87-b755-65e34fecb738" />
+<img width="391" height="859" alt="Screenshot 2026-05-15 202434" src="https://github.com/user-attachments/assets/98e8dd06-65f2-4b69-8b3c-25a815a21387" />
+<img width="392" height="856" alt="Screenshot 2026-05-15 202419" src="https://github.com/user-attachments/assets/7d0b1cb9-8741-4392-a402-7fb5e77ad638" />
+<img width="398" height="858" alt="Screenshot 2026-05-15 202330" src="https://github.com/user-attachments/assets/d5717197-e2fa-450d-b77d-f493898312ee" />
+<img width="393" height="858" alt="Screenshot 2026-05-15 202309" src="https://github.com/user-attachments/assets/bf658af8-2502-43eb-9af1-c1d2be63e74d" />
+<img width="392" height="857" alt="Screenshot 2026-05-15 202245" src="https://github.com/user-attachments/assets/700637dc-e13d-4e0f-9315-eec956f672a9" />
+<img width="393" height="853" alt="Screenshot 2026-05-15 202232" src="https://github.com/user-attachments/assets/40af8ef8-2c75-48f5-b869-01b5449e5c87" />
+<img width="389" height="855" alt="Screenshot 2026-05-15 202213" src="https://github.com/user-attachments/assets/43f761da-35c6-4c55-bd04-e7e632e58f97" />
+<img width="392" height="848" alt="Screenshot 2026-05-15 202044" src="https://github.com/user-attachments/assets/09488ca1-8e62-4618-804d-7d4fff8f5c34" />
+
 
 ## 🏗 Project Folder Structure
 
